@@ -48,4 +48,4 @@ Here is the question :
 
 ### Result of an irrelevant question
 
-![Example 1](images/Example1.png)
+![Example 1](images/Example2.png)
